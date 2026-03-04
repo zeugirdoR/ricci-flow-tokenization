@@ -246,7 +246,7 @@ Department of Mathematics and Statistics
 The University at Albany, SUNY
 
 For questions, collaborations, or to report results:
-- Email: [your email]
+- Email: [carlos@math.albany.edu, crod569@gmail.com]
 - arXiv: [paper link when published]
 
 ---
