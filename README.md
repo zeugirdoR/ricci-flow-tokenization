@@ -276,8 +276,6 @@ Copyright (c) 2026 Carlos C. Rodríguez
 - ✅ First tokens discovered from flow
 - 🚀 **We're making history!**
 
----
-
 > *"The geometry knows what to do. We just need to let it flow."*  
 > — Carlos C. Rodríguez
 
